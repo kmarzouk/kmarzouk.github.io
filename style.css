@@ -1,0 +1,28 @@
+/*
+*
+
+*
+*/
+body {
+    background: #e8cbc0;
+    background: -webkit-linear-gradient(to right, #e8cbc0, #636fa4);
+    background: linear-gradient(to right, #e8cbc0, #636fa4);
+    min-height: 100vh;
+}
+
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .img{
+    align-self: center;
+  }
+  .ice {
+    margin-left: 25%;
+    margin-right: 25%;
+
+  }
